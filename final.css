@@ -404,19 +404,19 @@ footer {
 @media screen and (max-width: 1000px) {
 
     .one {
-        content: url("img/IMG_1678 3.png");
+        content: url("img/IMG_1678 3.jpg");
     }
 
     .two {
-        content: url("img/IMG_1700.png");
+        content: url("img/IMG_1700.jpg");
     }
 
     .three {
-        content: url("img/IMG_2572 3.png");
+        content: url("img/IMG_2572 3.jpg");
     }
 
     .four {
-        content: url("img/IMG_2632.png");
+        content: url("img/IMG_2632.jpg");
     }
 
     .img-g {
@@ -802,9 +802,3 @@ footer {
     }
 
     }
-
-
-
-
-
-
