@@ -547,7 +547,7 @@ section img {
 .a14 {
     position: absolute;
     width: 10vh;
-    left: 835%;
+    left: 830%;
     top: 30%;
 }
 
@@ -562,49 +562,49 @@ section img {
 .b1 {
     position: absolute;
     width: 45vh;
-    left: 55%;
+    left: 157%;
     top: 23%;
 }
 
 .b2 {
     position: absolute;
     height: 77vh;
-    left: 85%;
+    left: 238%;
     top: 5%;
 }
 
 .b3 {
     position: absolute;
     width: 40vh;
-    left: 86%;
+    left: 240%;
     top: 32%;
 }
 
 .b4 {
     position: absolute;
     width: 44vh;
-    left: 123%;
+    left: 350%;
     top: 21%;
 }
 
 .b5 {
     position: absolute;
     width: 21vh;
-    left: 102%;
+    left: 290%;
     top: 40%;
 }
 
 .b6 {
     position: absolute;
     width: 63vh;
-    left: 160%;
+    left: 455%;
     top: 22%;
 }
 
 .b7 {
     position: absolute;
     width: 30vh;
-    left: 7%;
+    left: 20%;
     top: 26%;
     z-index: 2;
 }
@@ -612,42 +612,42 @@ section img {
 .b8 {
     position: absolute;
     width: 40vh;
-    left: 192%;
+    left: 552%;
     bottom: -10%;
 }
 
 .b9 {
     position: absolute;
     width: 40vh;
-    left: 173%;
+    left: 490%;
     bottom: -5%;
 }
 
 .b10 {
     position: absolute;
     width: 38vh;
-    left: 210%;
+    left: 610%;
     bottom: -5%;
 }
 
 .b11 {
     position: absolute;
     width: 30vh;
-    left: 235%;
+    left: 675%;
     bottom: 25%;
 }
 
 .b12 {
     position: absolute;
     height: 100vh;
-    left: 232%;
+    left: 668%;
     bottom: 0%;
 }
 
 .c {
     position: absolute;
     height: 120vh;
-    left: -7%;
+    left: -20%;
     top: -9%;
     z-index: 1;
 }
