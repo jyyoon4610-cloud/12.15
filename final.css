@@ -43,7 +43,7 @@ footer {
     z-index: 10;
 }
 
-section img {
+.scroll-x img {
     position: absolute;
 }
 
