@@ -1,10 +1,10 @@
 html, body {
     margin: 0;
     padding: 0;
-    overflow: hidden;
+    /*overflow: hidden;*/
     overflow-x: auto;   
     overflow-y: hidden;
-    scrollbar-width: none;
+    /*scrollbar-width: none;*/
 }
 
 .h {
@@ -800,4 +800,11 @@ section img {
         left: 682%;
         bottom: 60%;
     }
-}
+
+    }
+
+
+
+
+
+
