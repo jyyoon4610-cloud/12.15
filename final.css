@@ -9,10 +9,10 @@ html, body {
 
 .h {
     position: absolute;
-    color: darkgray;
+    color: white;
     top: 47%;
-    right: 4%;
-    font-size: 18px;
+    right: 43%;
+    font-size: 22px;
 }
 
 .img-g {
@@ -23,7 +23,7 @@ html, body {
 }
 
 .img-g a {
-    width: 40%;
+    width: 50%;
     height: 50%;
 }
 
@@ -50,9 +50,18 @@ footer {
 .h2 {
     position: fixed;
     color: lightgray;
-    font-size: 34px;
+    font-size: 20px;
     left: 1%;
-    top: 2%;
+    top: 1%;
+    z-index: 10;
+}
+
+h3 {
+    position: fixed;
+    color: lightgray;
+    font-size: 15px;
+    right: 2%;
+    top: 1%;
     z-index: 10;
 }
 
@@ -404,36 +413,38 @@ footer {
 @media screen and (max-width: 1000px) {
 
     .one {
-        content: url("img/IMG_1678 3.jpg");
+        content: url("img/IMG_1678 3.png");
     }
 
     .two {
-        content: url("img/IMG_1700.jpg");
+        content: url("img/IMG_1700.png");
     }
 
     .three {
-        content: url("img/IMG_2572 3.jpg");
+        content: url("img/IMG_2572 3.png");
     }
 
     .four {
-        content: url("img/IMG_2632.jpg");
+        content: url("img/IMG_2632.png");
     }
 
     .img-g {
         display: flex;
         flex-wrap: wrap;
         width: 100vw;
-        height: 80vh;
+        height: 100vh;
+        /*object-fit: cover;*/
     }
 
     .img-g a {
         width: 50%;
-        height: 40%;
+        height: 50%;
+        overflow: hidden;
     }
 
     .img-g img {
         width: 100%;
-        /*height: 410px;*/
+        height: 100%;
         object-fit: cover;
         display: block;
     }
@@ -442,15 +453,16 @@ footer {
         position: absolute;
         text-align: center;
         top: auto;
-        bottom: 55px;
-        left: 49%;
-    transform: translateX(-50%);
-    text-align: center;
+        bottom: 46%;
+        left: 40%;
+        transform: translateX(-50%);
+        text-align: center;
+        white-space: nowrap;
     }
     .h2 {
     position: fixed;
     color: lightgray;
-    font-size: 34px;
+    font-size: 20px;
     left: 1%;
     top: 2%;
     z-index: 10;
