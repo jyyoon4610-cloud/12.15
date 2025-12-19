@@ -413,19 +413,19 @@ h3 {
 @media screen and (max-width: 1000px) {
 
     .one {
-        content: url("IMG_1678 3.png");
+        content: url("img/IMG_1678 3.png");
     }
 
     .two {
-        content: url("IMG_1700.png");
+        content: url("img/IMG_1700.png");
     }
 
     .three {
-        content: url("IMG_2572 3.png");
+        content: url("img/IMG_2572 3.png");
     }
 
     .four {
-        content: url("IMG_2632.png");
+        content: url("img/IMG_2632.png");
     }
 
     .img-g {
@@ -814,6 +814,353 @@ h3 {
     }
 
     }
+
+    @media screen and (max-height: 500px) {
+        .a {
+        height: 100vh;
+    }
+
+    .a2 {
+        position: absolute;
+        width: 30vh;
+        left: 12%;
+        top: 13%;
+    }
+
+    .a3 {
+        position: absolute;
+        width: 10vh;
+        left: 12%;
+        top: 30%;
+    }
+
+    .a4 {
+        position: absolute;
+        width: 20vh;
+        left: 15%;
+        top: 55%;
+    }
+
+    .a5 {
+        position: absolute;
+        width: 10vh;
+        left: 11.5%;
+        top: 43%;
+    }
+
+    .a6 {
+        position: absolute;
+        width: 90vh;
+        left: 20%;
+        bottom: -2%;
+    }
+
+    .a7 {
+        position: absolute;
+        width: 11vh;
+        left: 30%;
+        top: 0%;
+    }
+
+    .a8 {
+        position: absolute;
+        width: 182vh;
+        left: 37%;
+        bottom: 0%;
+    }
+
+    .a9 {
+        position: absolute;
+        width: 15vh;
+        left: 65%;
+        top: 0%;
+    }
+
+    .a10 {
+        position: absolute;
+        width: 15vh;
+        left: 67%;
+        top: 0%;
+    }
+
+    .a11 {
+        position: absolute;
+        width: 100vh;
+        left: 68%;
+        bottom: -8%;
+    }
+
+    .a12 {
+        position: absolute;
+        height: 100vh;
+        left: 86%;
+        top: 0%;
+    }
+
+    .a13 {
+        position: absolute;
+        width: 25vh;
+        left: 94%;
+        bottom: -2%;
+    }
+
+    .a14 {
+        position: absolute;
+        width: 10vh;
+        left: 98%;
+        top: 30%;
+    }
+
+    .b {
+        position: absolute;
+        height: 100vh;
+        left: 0%;
+        top: 0%;
+        z-index: 1;
+    }
+
+    .b1 {
+        position: absolute;
+        width: 45vh;
+        left: 17%;
+        top: 23%;
+    }
+
+    .b2 {
+        position: absolute;
+        height: 77vh;
+        left: 26%;
+        top: 5%;
+    }
+
+    .b3 {
+        position: absolute;
+        width: 40vh;
+        left: 28%;
+        top: 32%;
+    }
+
+    .b4 {
+        position: absolute;
+        width: 44vh;
+        left: 38%;
+        top: 21%;
+    }
+
+    .b5 {
+        position: absolute;
+        width: 21vh;
+        left: 33%;
+        top: 40%;
+    }
+
+    .b6 {
+        position: absolute;
+        width: 63vh;
+        left: 49%;
+        top: 22%;
+    }
+
+    .b7 {
+        position: absolute;
+        width: 30vh;
+        left: 2%;
+        top: 26%;
+        z-index: 2;
+    }
+
+    .b8 {
+        position: absolute;
+        width: 40vh;
+        left: 59%;
+        bottom: -10%;
+    }
+
+    .b9 {
+        position: absolute;
+        width: 40vh;
+        left: 53%;
+        bottom: -5%;
+    }
+
+    .b10 {
+        position: absolute;
+        width: 38vh;
+        left: 65%;
+        bottom: -5%;
+    }
+
+    .b11 {
+        position: absolute;
+        width: 30vh;
+        left: 73%;
+        bottom: 25%;
+    }
+
+    .b12 {
+        position: absolute;
+        height: 100vh;
+        left: 72.5%;
+        bottom: 0%;
+    }
+
+    .c {
+        position: absolute;
+        height: 120vh;
+        left: -2%;
+        top: -9%;
+        z-index: 1;
+    }
+
+    .c1 {
+        position: absolute;
+        width: 32vh;
+        left: 12%;
+        top: 23%;
+    }
+
+    .c2 {
+        position: absolute;
+        height: 50vh;
+        left: 17%;
+        bottom: -4%;
+    }
+
+    .c3 {
+        position: absolute;
+        width: 100vh;
+        left: 23%;
+        top: 6%;
+    }
+
+    .c4 {
+        position: absolute;
+        width: 60vh;
+        left: 32%;
+        bottom: 0%;
+    }
+
+    .c5 {
+        position: absolute;
+        height: 100vh;
+        left: 43%;
+        top: 0%;
+    }
+
+    .c6 {
+        position: absolute;
+        width: 90vh;
+        left: 57%;
+        top: 22%;
+    }
+
+    .c7 {
+        position: absolute;
+        width: 80vh;
+        left: 71%;
+        top: 24%;
+        z-index: 2;
+    }
+
+    .c8 {
+        position: absolute;
+        height: 100vh;
+        left: 85%;
+        bottom: 0%;
+    }
+
+    .c9 {
+        position: absolute;
+        width: 25vh;
+        left: 100%;
+        top: 0%;
+    }
+
+    .c10 {
+        position: absolute;
+        width: 32vh;
+        left: 100%;
+        bottom: 5%;
+    }
+
+    .d {
+        position: absolute;
+        height: 100vh;
+        left: 0%;
+        top: 0%;
+        z-index: 1;
+    }
+
+    .d1 {
+        position: absolute;
+        width: 34vh;
+        left: 16%;
+        bottom: 0%;
+    }
+
+    .d2 {
+        position: absolute;
+        height: 70vh;
+        left: 21%;
+        bottom: -10%;
+    }
+
+    .d3 {
+        position: absolute;
+        width: 45vh;
+        left: 27%;
+        top: 10%;
+    }
+
+    .d4 {
+        position: absolute;
+        width: 20vh;
+        left: 24%;
+        top: 6%;
+    }
+
+    .d5 {
+        position: absolute;
+        height: 100vh;
+        left: 33%;
+        top: 0%;
+    }
+
+    .d6 {
+        position: absolute;
+        width: 70vh;
+        left: 54%;
+        top: 22%;
+    }
+
+    .d7 {
+        position: absolute;
+        width: 7vh;
+        left: 36%;
+        bottom: 7%;
+    }
+
+    .d8 {
+        position: absolute;
+        height: 56vh;
+        left: 66%;
+        bottom: -8%;
+    }
+
+    .d9 {
+        position: absolute;
+        width: 55vh;
+        left: 78%;
+        bottom: -5%;
+    }
+
+    .d10 {
+        position: absolute;
+        width: 18vh;
+        left: 74%;
+        bottom: 60%;
+    }
+}
 
 
 
